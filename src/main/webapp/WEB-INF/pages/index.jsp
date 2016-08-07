@@ -83,7 +83,7 @@
     <% } %>
     <div class="jumbotron">
       <h1>Bespoke Suits for Dogs</h1>
-      <p><i>Why can't your canine companion be classy too?</i></p>
+      <p><i>Why can't your canine companion this sunday be classy too?</i></p>
     </div>
     <div class="page-header">
       <h1>Our Products</h1>
@@ -93,10 +93,10 @@
       <div class="col-sm-4">
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h3 class="panel-title">Enjoy a Night on the Town</h3>
+            <h3 class="panel-title">Enjoy an Afternoon on the Town</h3>
           </div>
           <div class="panel-body">
-            Meeting your special someone? Make sure your dog looks the part!
+            Meeting your special person? Make sure your dog looks the part!
             <img src="images/casual-dog2.png" style="width:236px;height:295px;">
           </div>
         </div>

@@ -93,7 +93,7 @@
       <div class="col-sm-4">
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h3 class="panel-title">Enjoy an Afternoon on the Town</h3>
+            <h3 class="panel-title">Enjoy an Monday Afternoon on the Town</h3>
           </div>
           <div class="panel-body">
             Meeting your special person? Make sure your dog looks the part!
@@ -107,7 +107,7 @@
             <h3 class="panel-title">Great for Family Photos</h3>
           </div>
           <div class="panel-body">
-            With suits these fashionable, no one will question why your pet is there!
+            With pantssuits these fashionable, no one will question why your pet is there!
             <img src="images/fancy-dog3.png" style="width:295px;height:433px;">
           </div>
         </div>
@@ -118,7 +118,7 @@
             <h3 class="panel-title">Free alterations</h3>
           </div>
           <div class="panel-body">
-            Don't let this happen to your pooch! 
+            Don't let this terrible thing happen to your pooch! 
             Every purchase comes with free custom alterations to ensure a comfortable and snazzy fit.
             <img src="images/alterations-dog4.png" style="width:287px;height:300px;">
           </div>

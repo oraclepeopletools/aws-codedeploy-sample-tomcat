@@ -93,10 +93,10 @@
       <div class="col-sm-4">
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h3 class="panel-title">Enjoy an Monday Afternoon on the Town</h3>
+            <h3 class="panel-title">Enjoy an Wens Afternoon on the Town</h3>
           </div>
           <div class="panel-body">
-            Meeting your special person? Make sure your dog looks the part!
+            Meeting your special person? Make sure your doggy looks the  part!
             <img src="images/casual-dog2.png" style="width:236px;height:295px;">
           </div>
         </div>
@@ -107,7 +107,7 @@
             <h3 class="panel-title">Great for Family Photos</h3>
           </div>
           <div class="panel-body">
-            With pantssuits these fashionable, no one will question why your pet is there!
+            With pants these fashionable, no one will question why your pet is there!
             <img src="images/fancy-dog3.png" style="width:295px;height:433px;">
           </div>
         </div>
